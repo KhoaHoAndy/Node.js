@@ -1,0 +1,4 @@
+C:\Users\nhatk\source\repos\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\nhatk\source\repos\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\obj\Debug\KhoaHo_COM308Lab2.njsprojAssemblyReference.cache
+C:\Users\nhatk\source\repos\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\obj\Debug\KhoaHo_COM308Lab2.njsprojAssemblyReference.cache
+C:\Users\nhatk\source\repos\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\KhoaHo_COM308Lab2\bin\Microsoft.NodejsTools.WebRole.dll
