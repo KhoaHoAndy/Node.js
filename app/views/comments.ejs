@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/nodestyle.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="input-group input-group-lg">
+		<h1>Student Comments</h1>
+            <form action="/commentPost" method="post">
+                <table>
+			        <tr>
+                        <td><label>Course Code: </label></td>
+				        <td><input type="text" size="30" name="courseCode" required></td>	
+			        </tr>
+                    <tr>			
+						<td><label>Course Name: </label></td>
+						<td><input type="text" size="30" name="courseName" required></td>
+					</tr>
+					<tr>			
+						<td><label>Program: </label></td>
+						<td><input type="text" size="30" name="program"></td>
+					</tr>
+					<tr>			
+						<td><label>Semester: </label></td>
+						<td><input type="text" size="30" name="semester" required></td>
+					</tr>
+					<tr>			
+						<td><label>Comment: </label></td>
+						<td><textarea type="message" rows="10" cols="30" name="comment">Enter your comment here...</textarea></td>
+					</tr>
+					</table>
+                <button type="submit" class="btn btn-info btn-lg" role="button">Submit</button>
+            </form>
+        </div>
+    </div>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+</body>
+
+</html>
